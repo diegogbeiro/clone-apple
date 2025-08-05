@@ -90,3 +90,33 @@ p{
     width: 100%;
     height: 400px;
 }
+
+.sec2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.figura2{
+    background-image: url("imagens/figura\ 2.png");
+    background-size: cover;
+    width: 100%;
+    height: 612px; 
+}
+
+.sec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.figura3{
+    background-image: url("imagens/figura\ 3.png");
+    background-size: cover;
+    width: 100%;
+    height: 612px; 
+}
